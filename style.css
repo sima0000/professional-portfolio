@@ -7,7 +7,7 @@ body{
     display:flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-
+    margin-bottom: 40px;
 }
 .header_1{
    padding-left: 05%;
@@ -30,4 +30,18 @@ h1{
 .header_1 img{
     width: 500px;
     margin-right: 30px;
+}
+#dream-area{
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.header_2 {
+   
+    padding-right:05px;
+}
+.header_2 img{
+    width:500px;
+    margin-right: 25px;
 }
