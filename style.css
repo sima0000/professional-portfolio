@@ -1,0 +1,33 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+#header{
+    display:flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+.header_1{
+   padding-left: 05%;
+}
+.text-color{
+    color:rgb(241, 170, 16);
+
+
+
+}
+.link-color{
+    padding: 10px 40px;
+    text-decoration: none;
+    background-image: linear-gradient(red,yellow);
+    border-radius: 05px;
+}
+h1{
+    font-size: 40px;
+}
+.header_1 img{
+    width: 500px;
+    margin-right: 30px;
+}
